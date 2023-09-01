@@ -69,6 +69,9 @@ how to achieve follow a few steps
 ````
 <img alt="Awesome GitHub Profile Readme" src="gitimage/app.PNG"> </img>
 
+## Run the project 
+    php artisan serve and url /product
+
 ## for more mongodb query related
 please refer to mongodb  <a href="https://github.com/mongodb/laravel-mongodb#basic-usage">laravel mongodb query</a>.
 
