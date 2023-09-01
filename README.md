@@ -84,4 +84,4 @@ please refer to mongodb  <a href="https://github.com/mongodb/laravel-mongodb#bas
 -	Go to xampp/php/ and open up php.ini using your favorite editor, add the following lines to your extensions: extension=mongodb
 -	Restart XAMPP.
 
-<img alt="Awesome GitHub Profile Readme" src="gitimage/app.PNG"> </img>
+<img alt="Awesome GitHub Profile Readme" src="gitimage/m1.PNG"> </img>
