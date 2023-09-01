@@ -70,7 +70,7 @@ how to achieve follow a few steps
 <img alt="Awesome GitHub Profile Readme" src="gitimage/app.PNG"> </img>
 
 ## for more mongodb query related
-please refer to `mongodb  <https://github.com/mongodb/laravel-mongodb#basic-usage>`_ page.
+please refer to mongodb  <a href="https://github.com/mongodb/laravel-mongodb#basic-usage">laravel mongodb query</a>.
 
 ## installing MongoDB in XAMPP Windows
 
