@@ -1,7 +1,8 @@
 # Laravel8 with Mongodb Integration
 This is an example of a Laravel8 with Mongodb Integration
 
-### You have to just follow a few steps to get following web services
+After clone you can run it
+## how to achieve follow a few steps 
 
 ## Getting Started
 
@@ -58,7 +59,7 @@ This is an example of a Laravel8 with Mongodb Integration
 
 ## Step 7: add dependencies
     If Laravel project does not load dependencies automatically, you may also need to add the following to the provider’s section in your app.php file:
-    
+
 ````javascript
     Jenssegers\Mongodb\MongodbServiceProvider::class,
 ````
