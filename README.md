@@ -72,16 +72,16 @@ how to achieve follow a few steps
 ## for more mongodb query related
 please refer to `mongodb  <https://github.com/mongodb/laravel-mongodb#basic-usage>`_ page.
 
-## nstalling MongoDB in XAMPP Windows
+## installing MongoDB in XAMPP Windows
 
 ````
-    Download mongoDB from this link: <a href="http://www.mongodb.org/downloads">mongodb download</a> (the download button is located under “Community Server” tab). Download and install it
+-    Download mongoDB from this link: <a href="http://www.mongodb.org/downloads">mongodb download</a> (the download button is located under “Community Server” tab). Download and install it
 	
-	Download the mongoDB driver from this link:
+-	Download the mongoDB driver from this link:
 	https://pecl.php.net/package/mongodb/1.13.0/windows
 	
-	Open the ZIP file then extract the file: **php_mongodb.dll** to C:\xampp\php\ext directory.
-	Go to xampp/php/ and open up php.ini using your favorite editor, add the following lines to your extensions: extension=mongodb
-	Restart XAMPP.
+-	Open the ZIP file then extract the file: **php_mongodb.dll** to C:\xampp\php\ext directory.
+-	Go to xampp/php/ and open up php.ini using your favorite editor, add the following lines to your extensions: extension=mongodb
+-	Restart XAMPP.
 
 ````
