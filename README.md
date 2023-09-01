@@ -51,6 +51,7 @@ how to achieve follow a few steps
 		'options'  => []
 	],
 ````
+<img alt="Awesome GitHub Profile Readme" src="gitimage/database.PNG"> </img>
 ## Step 6: Set the default database connection name in config\database.php at top section
     'default' => env('DB_CONNECTION', 'mongodb'),
 
@@ -59,6 +60,7 @@ how to achieve follow a few steps
     composer require mongodb/mongodb --ignore-platform-reqs
 	composer require jenssegers/mongodb --ignore-platform-reqs
 ````
+<img alt="Awesome GitHub Profile Readme" src="gitimage/database2.PNG"> </img>
 
 ## Step 7: add dependencies
     If Laravel project does not load dependencies automatically, you may also need to add the following to the provider’s section in your app.php file:
@@ -66,6 +68,6 @@ how to achieve follow a few steps
 ````javascript
     Jenssegers\Mongodb\MongodbServiceProvider::class,
 ````
-
+<img alt="Awesome GitHub Profile Readme" src="gitimage/app.PNG"> </img>
 ## for more mongodb query related
 please refer to `mongodb  <https://github.com/mongodb/laravel-mongodb#basic-usage>`_ page.
