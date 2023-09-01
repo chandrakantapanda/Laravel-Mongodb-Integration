@@ -2,7 +2,8 @@
 This is an example of a Laravel8 with Mongodb Integration
 
 After clone you can run it
-## how to achieve follow a few steps 
+
+how to achieve follow a few steps 
 
 ## Getting Started
 
@@ -63,3 +64,6 @@ After clone you can run it
 ````javascript
     Jenssegers\Mongodb\MongodbServiceProvider::class,
 ````
+
+## for more mongodb query related
+please refer to `mongodb  <https://github.com/mongodb/laravel-mongodb#basic-usage>`_ page.
