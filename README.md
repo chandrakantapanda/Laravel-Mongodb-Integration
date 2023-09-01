@@ -17,6 +17,8 @@ how to achieve follow a few steps
 	DB_USERNAME=
 	DB_PASSWORD=
 ````
+<img alt="Awesome GitHub Profile Readme" src="assets/mcrud1.png"> </img>
+
 
  ## Step 2:Create a schema for product table.
 
